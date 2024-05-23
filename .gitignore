@@ -2,7 +2,7 @@
 pa1/tutorial-notes.xopp
 pa1/discussion-notes.xopp
 
-pa2/RollNo_Name_PA2_sol.ipynb
+# pa2/RollNo_Name_PA2_sol.ipynb
 pa2/StochasticMazeSol.ipynb
 pa2/CareerPath.ipynb
 pa2/assets/careerPath.drawio
@@ -11,4 +11,7 @@ pa2/assets/fl.png
 pa2/assets/ipe.png
 pa2/assets/policyIteration.png
 pa2/assets/valueIteration.png
+pa2/tutorial-session.xopp
+
+pa3/RollNo_Name_PA3_sol.ipynb
 
